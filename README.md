@@ -1,5 +1,5 @@
 # simple maven-project
 
-Wait to be polled
+Waited to be polled
 
  
