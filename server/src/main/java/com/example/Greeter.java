@@ -1,15 +1,14 @@
 package com.example;
 
-
-public class Greeter {
 //comment public class Greeter
-  
-  public Greeter() {
-  //comment public Greeter
-  }
+public class Greeter {
 
-  public final String greet(final String someone) {
-    //comment public final greet
+  //comment public Greeter
+  public Greeter() {  
+  }
+  
+  //comment public final greet
+  public final String greet(final String someone) {    
     return String.format("Hello stephane, %s!", someone);
   }
 }
