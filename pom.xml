@@ -205,6 +205,16 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+         
+ <reporting>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jxr-plugin</artifactId>
+            <version>2.3</version>
+        </plugin>
+    </plugins>
+</reporting>
 
   <scm>
     <connection>scm:git:git@github.com:babsmbaye88/maven-project.git</connection>
