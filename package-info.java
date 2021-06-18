@@ -1,4 +1,4 @@
 /**
-* package du projet
+* package du projet.
 */
 package com.example;
