@@ -1,4 +1,4 @@
 /**
 * package du projet
 */
-package-info.java
+package com.example;
