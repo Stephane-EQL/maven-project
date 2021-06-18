@@ -9,7 +9,9 @@ public class Greeter {
     
   }
   
-  /** Description */
+  /** Description 
+  @return
+  */
   public final String greet(final String someone) {    
     return String.format("Hello stephane, %s!", someone);
   }
