@@ -7,7 +7,7 @@ public class Greeter {
 
 /**
   * Retourne le level du zéro.
-  */ 
+  */
   public Greeter() {
 
   }
