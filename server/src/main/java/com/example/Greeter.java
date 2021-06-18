@@ -1,21 +1,17 @@
-package com.example;
+package com.formation;
 
 /** Description */
-public class Greeter
-{
+public class Greeter {
 
+  /** Description */
+	public Greeter () {
 
-/** Description */
-  public Greeter ()
-  {
-
-  }
-
-/** Description 
+	}
+  
+  /** Description 
 @return
 */
-  public final String greet (final String someone)
-  {
-    return String.format ("Hello stephane, %s!", someone);
-  }
+	public final String greet (final String someone)  {
+		return String.format ("Hello stephanee, %s!", someone);
+	}
 }
